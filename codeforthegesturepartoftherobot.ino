@@ -1,3 +1,4 @@
+// this for the glove i used two hc05 to connect the car with the glove, if u want to do the same, diffferentiate them 1st choose one to be master and slave, go into at mode and change the at mode of the master to 1, and find its address and set the slaves connection priority to the masters, i cant explain properly but there are tutorials in yt that u can follow
 #include <Wire.h>
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
