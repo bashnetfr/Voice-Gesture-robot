@@ -1,3 +1,4 @@
+// this is for the chasis where the car is, the code is functional it worked with the phones acclerometer and gyrometer, and the glove, dont forget to set the values of the phones accelrometer to f b l r respectively.
 #include <SoftwareSerial.h>
 SoftwareSerial bt(2, 3); // rx and tx
 
